@@ -1,55 +1,105 @@
 <div align="center">
-  <img width=100% src="https://capsule-render.vercel.app/api?color=0:C80000,50:A00000,100:800000&height=250&section=header&text=Gabriela%20Castro%20Beltran&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn"
+  <img width=100% src="https://capsule-render.vercel.app/api?color=0:C80000,50:A00000,100:800000&height=250&section=header&text=Gabriela%20Castro%20Beltrán&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn"
   alt="header"/>
 </div>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B1003D&center=true&vCenter=true&width=435&lines=Electronic+Engineer;AI+Engineer;Automation;PCB+Design;Always+Learning" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B1003D&center=true&vCenter=true&width=500&lines=Electronic+Engineer;AI+%26+Computer+Vision;Automation+%26+IoT;PCB+Design+%26+Electronics;Always+Learning+%F0%9F%94%A5" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/nombredeusuario"><img src="https://img.shields.io/badge/-LinkedIn-B22222?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:tucorreo@gmail.com"><img src="https://img.shields.io/badge/-patelkvin04@gmail.com-A00000?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-  <a href="tel:tunumero"><img src="https://img.shields.io/badge/-+1234567890-C80000?style=for-the-badge&logo=phone&logoColor=white"/></a>
-  <a href="https://github.com/tusuario"><img src="https://img.shields.io/badge/-GitHub-800000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://tuportafolio.com"><img src="https://img.shields.io/badge/-Portafolio-B82E14?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/gabriela-castro"><img src="https://img.shields.io/badge/-LinkedIn-B22222?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:gcastrob@unal.edu.co"><img src="https://img.shields.io/badge/-gcastrob@unal.edu.co-A00000?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="tel:+573176661861"><img src="https://img.shields.io/badge/-+57%20317%20666%201861-C80000?style=for-the-badge&logo=phone&logoColor=white"/></a>
+  <a href="https://github.com/GabyCastroB"><img src="https://img.shields.io/badge/-GitHub-800000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://tuportafolio.com"><img src="https://img.shields.io/badge/-Portfolio-B82E14?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 </p>
 
-## 📖 About me
+---
 
-* 💻 I'm a full stack web developer
-* 🎨 I'm a self-taught UI designer
-* 📱 I make apps for Android and iOS
-* 🎓 I'm a Computer Science student (graduating in October 2021)
-* 🌐 You can see some of my projects on [my portfolio](https://freshidea.com/jonah/)
-* 📺 I make web development and tech tutorials on [YouTube](https://www.youtube.com/c/DevProTips)
+## 📖 About Me  
+
+🎓 I’m an **Electronic Engineer** from the **National University of Colombia** with experience in **automation, IoT, artificial intelligence, and computer vision**.  
+💡 I enjoy creating technological solutions for **industry 4.0 and 5.0 environments**, integrating **hardware, software, and AI**.  
+⚡ Passionate about **automation systems, PCB design, control systems, and applied machine learning**.  
+
+---
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
+---
+
+## ⚙️ Industrial Automation & Control  
 <p align="center">
-
-- **Languages**:
-    
-     <img src="https://user-images.githubusercontent.com/64439609/212555599-9b7ae14f-093a-41bf-8cb8-3cdefd418636.png" width="40" height="40" />
-  
-- **Front-End Development**:
-  <img align="left" alt="Python" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/python.svg" />
-
-   <img src="https://user-images.githubusercontent.com/64439609/212556407-f122dc0e-901c-4df7-960f-29a3b52c5349.png" width="40" height="40" alt="HTML" />
-   <img src="https://user-images.githubusercontent.com/64439609/212556203-47a51702-fec1-4275-bafb-6afdea15b092.png" width="40" height="40" alt="CSS" />
-   <img src="https://user-images.githubusercontent.com/64439609/212556085-e6f8391a-6f25-43d5-8bfe-818167047cfb.png" width="40" height="40" alt="JS"/>
-
-
-
-- **Softwares and Tools**:
-
-    <img src="https://user-images.githubusercontent.com/64439609/212556685-de9a7c04-31b0-43b6-af39-7c82ac13b321.png" width="40" height="40" alt="Git"/>
-    <img src="https://user-images.githubusercontent.com/64439609/212556741-81407849-82c8-4926-854f-820e8a644375.png" width="40" height="40" alt="Git"/>
-    <img src="https://user-images.githubusercontent.com/64439609/212556816-5f39489d-6cee-4f1c-997f-4d30a391287c.png" width="40" height="40" alt="Git"/>
-    <img src="https://user-images.githubusercontent.com/64439609/212556802-77a65ec1-aa71-4272-b603-1a57d1914678.png" width="40" height="40" alt="Git"/>
-
-<br>
+  <a href="https://www.rockwellautomation.com/en-us/products/software/studio-5000.html"><img src="https://img.shields.io/badge/Studio%205000-B22222?style=for-the-badge&logo=rockwellautomation&logoColor=white" /></a>
+  <a href="https://factoryio.com/"><img src="https://img.shields.io/badge/Factory%20IO-A00000?style=for-the-badge&logo=probot&logoColor=white" /></a>
+  <a href="https://inductiveautomation.com/ignition/"><img src="https://img.shields.io/badge/Ignition%20SCADA-800000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+  <a> <img src="https://img.shields.io/badge/Ladder%20Logic-C80000?style=for-the-badge&logo=buffer&logoColor=white" /></a>
+  <a href="https://cade-simu.com/"><img src="https://img.shields.io/badge/Cadesimu-B82E14?style=for-the-badge&logo=windows&logoColor=white" /></a>
+  <a href="https://www.festo.com"><img src="https://img.shields.io/badge/FluidSIM-B22222?style=for-the-badge&logo=water&logoColor=white" /></a>
 </p>
 
-  </table>
+## 👩‍💻 Programming Languages  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,matlab&theme=dark" height="60"/>  
+</p>
+
+---
+
+## 🤖 Artificial Intelligence & Computer Vision  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Numpy-svgrepo-com.svg" height="50" alt="Numpy"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" height="50" alt="Keras"/>
+</p>
+
+---
+
+## 🔌 Electronics & Hardware  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/KiCad-Logo.svg" height="50" alt="KiCad"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Fusion360_Logo.svg" height="50" alt="Fusion 360"/>
+</p>
+
+---
+
+## 💻 Software & IDEs  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=visualstudio,webstorm,pycharm,vscode,github&theme=dark" height="60"/>
+</p>
+
+---
+
+## 📊 Data Analysis & Documentation  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=latex&theme=dark" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" height="50" alt="Excel"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" height="50" alt="Notion"/>
+
+</p>
+
+---
+
+## ☁️ Cloud & Collaboration  
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" height="50" alt="Notion"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="50" alt="Notion"/>
+</p>
+
+---
+
+### 🌍 Languages  
+- 🇪🇸 Spanish (Native)  
+- 🇬🇧 English (B2)  
+- 🇧🇷 Portuguese (B2)  
+- 🇯🇵 Japanese (A2)  
+
+---
+
+## 🎯 Soft Skills  
+✨ Problem Solving | 🤝 Teamwork | 🗣️ Communication | 👩‍💼 Leadership | 📋 Project Management | 🔍 Attention to Detail | 🔄 Adaptability  
+
+---
 
