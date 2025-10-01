@@ -1,5 +1,5 @@
 <div align="center">
-  <img width=100% src="https://capsule-render.vercel.app/api?color=0:C80000,50:A00000,100:800000&height=250&section=header&text=Gabriela%20Castro%20Beltrán&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn"
+  <img width=100% src="https://capsule-render.vercel.app/api?color=0:C80000,50:A00000,100:800000&height=250&section=header&text=Gabriela%20María%20Castro%20Beltrán&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn"
   alt="header"/>
 </div>
 
@@ -8,9 +8,8 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/gabriela-castro"><img src="https://img.shields.io/badge/-LinkedIn-B22222?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:gcastrob@unal.edu.co"><img src="https://img.shields.io/badge/-gcastrob@unal.edu.co-A00000?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-  <a href="tel:+573176661861"><img src="https://img.shields.io/badge/-+57%20317%20666%201861-C80000?style=for-the-badge&logo=phone&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/gabriela-beltran2182"><img src="https://img.shields.io/badge/-LinkedIn-B22222?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:gcastrob@unal.edu.co"><img src="https://img.shields.io/badge/-gmail.com-A00000?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
   <a href="https://github.com/GabyCastroB"><img src="https://img.shields.io/badge/-GitHub-800000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://tuportafolio.com"><img src="https://img.shields.io/badge/-Portfolio-B82E14?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 </p>
