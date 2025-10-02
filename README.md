@@ -89,6 +89,16 @@
 
 ---
 
+## 🚀 Featured Projects  
+
+| Project | Description | Link |
+|---------|-------------|------|
+| 🔹 **SCADA & Factory I/O Automation** | Ladder logic in Studio 5000, Factory I/O simulation, and SCADA integration with Ignition. | [Repo](https://github.com/GabyCastroB/SCADA-Studio5000) · [Demo](https://youtu.be/YjniLJiRvuo) |
+| 🔹 **Computer Vision for Blind Mobility** | YOLOv5 + PyTorch model trained on urban datasets to detect traffic lights, vehicles, and pedestrians. | [Repo](https://github.com/GabyCastroB/Computer-vision) |
+| 🔹 **Sensors & IoT Projects** | Electronics, CAD, PLC programming, and embedded IoT experiments with sensors. | [Repo](https://github.com/GabyCastroB/Sensores-Projects) |
+
+---
+
 ### 🌍 Languages  
 - 🇪🇸 Spanish (Native)  
 - 🇬🇧 English (B2)  
