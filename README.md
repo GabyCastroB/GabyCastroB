@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gabriela-beltran2182"><img src="https://img.shields.io/badge/-LinkedIn-B22222?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:gcastrob@unal.edu.co"><img src="https://img.shields.io/badge/-gmail.com-A00000?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:gcastrob@unal.edu.co"><img src="https://img.shields.io/badge/-gmail-A00000?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
   <a href="https://github.com/GabyCastroB"><img src="https://img.shields.io/badge/-GitHub-800000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://tuportafolio.com"><img src="https://img.shields.io/badge/-Portfolio-B82E14?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 </p>
@@ -102,3 +102,13 @@
 
 ---
 
+
+<div align="center">
+  ✨ *“Engineering the bridge between hardware, software, and intelligence.”* ✨  
+  <br>
+  🚀 Always open to collaborating on projects related to AI, automation, and electronics.  
+</div>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C80000,50:A00000,100:800000&height=150&section=footer&text=Let's%20Innovate%20Together!&fontSize=22&fontColor=fefefe&animation=fadeIn"/>
+</div>
