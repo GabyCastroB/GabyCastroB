@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/gabriela-beltran2182"><img src="https://img.shields.io/badge/-LinkedIn-B22222?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:gcastrob@unal.edu.co"><img src="https://img.shields.io/badge/-gmail-A00000?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
   <a href="https://github.com/GabyCastroB"><img src="https://img.shields.io/badge/-GitHub-800000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://tuportafolio.com"><img src="https://img.shields.io/badge/-Portfolio-B82E14?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://portfolio-gabrielacastro.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-B82E14?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 </p>
 
 ---
